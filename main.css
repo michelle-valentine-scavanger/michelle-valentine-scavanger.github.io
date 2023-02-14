@@ -1,0 +1,30 @@
+body {
+    background-color: pink;
+}
+
+h1 {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    color: white;
+}
+
+h2 {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    color: white;
+}
+
+p {
+    font-family: cursive;
+    color: grey;
+}
+
+a {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    color: white;
+}
+
+a:hover {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+}
